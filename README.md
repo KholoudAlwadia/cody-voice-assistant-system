@@ -1,19 +1,36 @@
-# cody_assistant
+# Cody Voice Assistant System
 
-A new Flutter application.
-chatbot with STT,TTS and watson asisstant and animation Talking avatr  
+An AI-powered voice assistant system integrating speech recognition, text-to-speech, and conversational AI.
 
-note: there is video demo
+## 🎥 Demo Video
 
-## Getting Started
+https://user-images.githubusercontent.com/XXXXX/demo.mp4
 
-This project is a starting point for a Flutter application.
+## Overview
+This project demonstrates the development of a voice-enabled assistant that supports real-time speech interaction, AI-based responses, and mobile integration.
+It combines backend services, AI APIs, and a mobile interface to deliver an interactive assistant experience.
 
-A few resources to get you started if this is your first Flutter project:
+## System Components
+- Speech-to-Text (STT) using IBM Watson
+- Text-to-Speech (TTS) for voice responses
+- AI Assistant logic for answering programming-related queries
+- Mobile interface built with Flutter
+- Animated talking avatar integration
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Key Features
+- Real-time voice input and output
+- AI-powered responses
+- Programming-related search support
+- Mobile-friendly interface
+- Modular system design
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+- Python
+- IBM Watson (STT, TTS, Assistant)
+- Flutter & Dart
+- REST APIs
+
+## Purpose
+This project was developed during hands-on training to explore AI integrations, voice interaction systems, and mobile application development.
+
+> Note: This project represents applied system integration experience and is not a production-ready commercial product.
