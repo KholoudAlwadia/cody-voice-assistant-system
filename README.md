@@ -4,7 +4,7 @@ An AI-powered voice assistant system integrating speech recognition, text-to-spe
 
 ## 🎥 Demo Video
 
-https://user-images.githubusercontent.com/cody-voice-assistant-system/cody chatbot.mp4
+https://user-images.githubusercontent.com/cody-voice-assistant-system/codychatbot.mp4
 
 ## Overview
 This project demonstrates the development of a voice-enabled assistant that supports real-time speech interaction, AI-based responses, and mobile integration.
